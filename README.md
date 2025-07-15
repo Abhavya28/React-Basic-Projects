@@ -1,4 +1,4 @@
-# 🧪 React Practice Projects
+# React Practice Projects
 
 This repository contains beginner-level React.js projects created for practice and learning purposes. Each folder is a separate project made while exploring React basics.
 
