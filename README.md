@@ -22,4 +22,14 @@ This repository contains beginner-level React.js projects created for practice a
 
 ---
 
+### 3. 🧩 Basic React App
+- A basic react app.
+- Created to learn the concept of useState hook in react.
+
+📂 Folder: `basic-react-app/`
+
+---
+
+
+
 
