@@ -38,6 +38,14 @@ This repository contains beginner-level React.js projects created for practice a
 
 ---
 
+### 5. 🔔 Subscribe Page
+- A basic Susbscribe Page.
+- To learn useState() in React.
+
+📂 Folder: `subscribe/`
+
+---
+
 
 
 
