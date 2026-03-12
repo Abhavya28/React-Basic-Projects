@@ -46,11 +46,19 @@ This repository contains beginner-level React.js projects created for practice a
 
 ---
 
-### 6. 👤 Login & SignUp Page
+### 6. 🔐 Login & SignUp Page
 - A decent Login and SignUp Page.
 - To understand the concept of Forms in React.
 
 📂 Folder: `login-form/`
+
+---
+
+### 6. 👤 User Cards Page
+- User Card Page which displays details of different users.
+- To understand the concept of useEffect() API (fetch,axios) and Error Handling in React.
+
+📂 Folder: `user-cards/`
 
 ---
 
