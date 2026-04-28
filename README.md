@@ -68,6 +68,15 @@ This repository contains beginner-level React.js projects created for practice a
 
 📂 Folder: `otp-page/`
 
+---
+
+### 9. 📝 QuoteNest
+- Displays quotes from an API in a clean, responsive card UI.
+- Allows users to add new quotes with author using a form.
+- Practiced `useState()`, `useEffect()` and state lifting for shared data across pages.
+
+📂 Folder: `quote-nest/`
+
 
 
 
